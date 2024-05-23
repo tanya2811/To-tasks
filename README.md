@@ -1,1 +1,1 @@
-So i have created this to-do application its features are that a task gets added deleted and modified in it. Talking about the folder structure its simple and efficient every thing is sorted.
+To-Do List application built using Java, MySQL,Spring Boot and JSP. With CRUD operations seamlessly integrated, managing tasks has never been easier. The UI features a sleek design with hover effects, adding that extra touch of interactivity. Plus, the UI is not just functional but visually stunning, that enhance user experience.
